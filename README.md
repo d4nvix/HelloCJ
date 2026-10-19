@@ -32,5 +32,9 @@ All movement and gameplay controls are taken directly from **GTA: San Andreas**.
 **Created by [d4nvix](https://github.com/d4nvix).**
 
 Unofficial fan project. Not affiliated with Rockstar Games or tinyBuild.
-Questions:A:Mods GTA SA Work In Hello Neighbor
+
+Questions
+A:Mods GTA SA Work In Hello Neighbor?
 C:Idk Try install and test
+A:This mod is stable?
+C:No in mod in development.
