@@ -22,7 +22,7 @@ All movement and gameplay controls are taken directly from **GTA: San Andreas**.
 | Key | Action |
 |---|---|
 | F4 | Open menu |
-| F5 | Toggle CJ mode |
+| F5 | Toggle Mod |
 | F6 | Jetpack |
 | F7 | Spawn a vehicle |
 | F8 | Give weapon |
